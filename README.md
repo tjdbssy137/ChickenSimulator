@@ -23,4 +23,4 @@
 
 
 ## 시연 영상 및 설명
-[![Video Label](https://img.youtube.com/vi/RNHkBSSav3I/0.jpg)](https://youtu.be/RNHkBSSav3I)
+[![Video Label](https://img.youtube.com/vi/Nz57Lzx1tps/0.jpg)](https://youtu.be/Nz57Lzx1tps)
