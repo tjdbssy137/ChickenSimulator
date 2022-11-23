@@ -1,4 +1,4 @@
-# ChickenSimulator(21년, AR/VR게임제작기초 기말 프로젝트)
+# :chicken:ChickenSimulator(21년, AR/VR게임제작기초 기말 프로젝트)
 
 #### 제한 시간 동안 맵을 돌아다니며 모험하고, 적들과 맞서며 최고기록을 갱신 하는 게임. 맵 내에 다양한 아이템들과 건물 내부로 들어갈 수 있는 열쇠를 찾을 수 있음.
 
@@ -8,7 +8,7 @@
 + 게임개발엔진 : Unity
 + 개발 인원 2명
  
- + 역할
+ + :sunglasses:역할
  ```
    전체 맵 디자인
    전체 GUI 구현
@@ -21,6 +21,14 @@
 
 ---
 
+## :mag_right:게임 조작법
+   + A, D, S, W, space bar로 이동 및 점프
+   + Shift 키로 달리기
+   + F, E 무기 줍기 및 장착
+   + 총알 발사
 
-## 시연 영상 및 설명
+---
+
+
+## :movie_camera:시연 영상 및 설명
 [![Video Label](https://img.youtube.com/vi/Nz57Lzx1tps/0.jpg)](https://youtu.be/Nz57Lzx1tps)
