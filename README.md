@@ -8,7 +8,7 @@
 + 게임개발엔진 : Unity
 + 개발 인원 2명
  
- + :sunglasses:역할
+ ## :sunglasses:역할
  ```
    전체 맵 디자인
    전체 GUI 구현
